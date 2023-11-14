@@ -1,0 +1,1 @@
+skill = false; // Desativa a habilidade do termômetro ao entrar em uma nova sala
