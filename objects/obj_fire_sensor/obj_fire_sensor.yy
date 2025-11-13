@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "$GMObject":"",
   "%Name":"obj_fire_sensor",
   "eventList":[],
@@ -33,4 +34,38 @@
   },
   "spriteMaskId":null,
   "visible":false,
+=======
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_fire_sensor",
+  "eventList": [],
+  "managed": true,
+  "overriddenProperties": [],
+  "parent": {
+    "name": "sensor",
+    "path": "folders/Objetos/sensor.yy",
+  },
+  "parentObjectId": null,
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "spr_fire_sensor",
+    "path": "sprites/spr_fire_sensor/spr_fire_sensor.yy",
+  },
+  "spriteMaskId": null,
+  "visible": false,
+>>>>>>> 406811f24178cb7c901e82d65b1dcb9b5c505c7c
 }

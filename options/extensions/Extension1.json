@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 {
   "resourceType": "GMExtensionConfigSet",
   "configurables": null,
   "resourceVersion": "1.0"
+=======
+{
+  "resourceType": "GMExtensionConfigSet",
+  "configurables": null,
+  "resourceVersion": "1.0"
+>>>>>>> 406811f24178cb7c901e82d65b1dcb9b5c505c7c
 }

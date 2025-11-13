@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "$GMObject":"",
   "%Name":"obj_player",
   "eventList":[
@@ -29,11 +30,44 @@
   "physicsSensor":false,
   "physicsShape":1,
   "physicsShapePoints":[
+=======
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_player",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_sensor_painel","path":"objects/obj_sensor_painel/obj_sensor_painel.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_fire_sensor","path":"objects/obj_fire_sensor/obj_fire_sensor.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Player",
+    "path": "folders/Objetos/Player.yy",
+  },
+  "parentObjectId": null,
+  "persistent": true,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [
+>>>>>>> 406811f24178cb7c901e82d65b1dcb9b5c505c7c
     {"x":0.0,"y":0.0,},
     {"x":24.0,"y":0.0,},
     {"x":24.0,"y":24.0,},
     {"x":0.0,"y":24.0,},
   ],
+<<<<<<< HEAD
   "physicsStartAwake":true,
   "properties":[],
   "resourceType":"GMObject",
@@ -45,4 +79,15 @@
   },
   "spriteMaskId":null,
   "visible":true,
+=======
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "spr_player_idle",
+    "path": "sprites/spr_player_idle/spr_player_idle.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+>>>>>>> 406811f24178cb7c901e82d65b1dcb9b5c505c7c
 }

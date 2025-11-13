@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
@@ -31,4 +32,39 @@
   },
   "spriteMaskId": null,
   "visible": true,
+=======
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "confirm",
+  "eventList": [],
+  "managed": true,
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Menu",
+    "path": "folders/Objetos/Menu.yy",
+  },
+  "parentObjectId": null,
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "sairconfirm",
+    "path": "sprites/sairconfirm/sairconfirm.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+>>>>>>> 406811f24178cb7c901e82d65b1dcb9b5c505c7c
 }

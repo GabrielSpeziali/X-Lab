@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "$GMObject":"",
   "%Name":"obj_painel",
   "eventList":[],
@@ -33,4 +34,38 @@
   },
   "spriteMaskId":null,
   "visible":true,
+=======
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_painel",
+  "eventList": [],
+  "managed": true,
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Itens",
+    "path": "folders/Objetos/Itens.yy",
+  },
+  "parentObjectId": null,
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": true,
+  "spriteId": {
+    "name": "spr_painel",
+    "path": "sprites/spr_painel/spr_painel.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+>>>>>>> 406811f24178cb7c901e82d65b1dcb9b5c505c7c
 }
